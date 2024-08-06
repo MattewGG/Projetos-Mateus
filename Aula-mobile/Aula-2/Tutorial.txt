@@ -1,0 +1,9 @@
+Expo Go aplicativo pra abrir o android studio no celular 
+
+-Criar passo a passo- 
+No terminal digite:
+
+npx create-expo-app contado --template blank
+
+
+para rodar web entra na pasta contador e mande um: npx expo install react-native-web react-dom @expo/metro-runtime 
